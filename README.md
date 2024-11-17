@@ -76,5 +76,4 @@ EcoRoute is a mobile application that helps users optimize their driving routes 
    ```
 ---
 ## Contact 📬
-For any questions or support, please reach out to:
 - **Project Team**: Vaishnav Vishwanath, Vinayak V Thayil, Kishan P, Swaroop Haridas

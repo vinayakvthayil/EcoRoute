@@ -74,10 +74,6 @@ EcoRoute is a mobile application that helps users optimize their driving routes 
    ```bash
    npx react-native run-android
    ```
-   OR
-   ```bash
-   npx react-native run-ios
-   ```
 ---
 ## Contact 📬
 For any questions or support, please reach out to:

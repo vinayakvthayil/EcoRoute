@@ -56,7 +56,7 @@ EcoRoute is a mobile application that helps users optimize their driving routes 
    ```bash
    cd ../EcoRoute-frontend/EcoRouteApp
    npm install
-   npx react-native run-android  # For Android
+   npx react-native run-android  
    ```
 
 4. **Environment Variables**:

@@ -1,5 +1,5 @@
 # EcoRoute 🚗🌿  
-**AI-Powered Navigation Tool for Eco-Friendly and Efficient Travel**
+**AI-Powered Navigation Tool for Eco-Friendly and Efficient Travel** 
 
 EcoRoute is a mobile application that helps users optimize their driving routes for reduced environmental impact and better fuel efficiency. Built with React Native, Node.js, and MongoDB, this project leverages AI and mapping technologies to provide smart navigation solutions.
 
